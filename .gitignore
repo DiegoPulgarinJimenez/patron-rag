@@ -1,0 +1,12 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Indice FAISS local (se reconstruye al ejecutar)
+faiss_index/
+
+# Sistema
+.DS_Store
